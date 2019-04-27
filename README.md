@@ -1,2 +1,0 @@
-# assignmentApplication
-Created with CodeSandbox
